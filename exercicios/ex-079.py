@@ -11,5 +11,5 @@ while True:
         break
 print('=-'*30)
 num.sort()
-print(f'você digitou os valores {num}.')
+print(f'Você digitou os valores {num}.')
 print('=-'*30)
