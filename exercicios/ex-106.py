@@ -11,6 +11,11 @@ c = (
 
 
 def ajuda(com):
+    """_summary_
+
+    Args:
+        com (_type_): _description_
+    """
     título(f'Acessando o manual do comando \'{com}\'', 4)
     print(c[5], end='')
     help(com)
