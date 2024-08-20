@@ -1,3 +1,3 @@
-# Exercícios resolvidos de Python
+# Meu desenvolvimento pessoal.
 ***
- Exercícios de __python__ feitos ao longo do curso realizado pela plataforma cursoemvideo.com.
+Aqui esta o meu desenvolvimento e aprendizado da linguagem Python ao decorrer do tempo.
